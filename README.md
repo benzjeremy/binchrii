@@ -55,6 +55,15 @@ binchrii/
 
 ---
 
+## 🔒 Repository-Status & Interaktionen
+
+Dieses Repository dient **ausschließlich der Bereitstellung und Ansicht der Web-Präsenz** über GitHub Pages.
+- Externe Pull Requests sind gesperrt.
+- Issues, Diskussionen und Release-Downloads sind deaktiviert.
+- Die Nutzung beschränkt sich auf das reine Betrachten der Website unter 👉 [https://benzjeremy.github.io/binchrii/](https://benzjeremy.github.io/binchrii/).
+
+---
+
 ## 📜 Lizenz
 
 Dieses Projekt ist unter der **GNU General Public License v3.0 (GPL-3.0)** lizenziert — siehe [LICENSE](LICENSE) für Details.
