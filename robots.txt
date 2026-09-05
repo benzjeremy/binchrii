@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://benzjeremy.github.io/binchrii/sitemap.xml

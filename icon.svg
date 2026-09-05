@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#9146ff" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="#090a0f" />
+  <rect x="2" y="2" width="96" height="96" rx="20" fill="none" stroke="url(#cyberGrad)" stroke-width="3" />
+  <!-- Stylized Monogram B / Gaming Headset / Controller -->
+  <path d="M30 24 H52 C64 24 72 31 72 40 C72 46 68 50 62 52 C70 54 75 60 75 68 C75 78 66 84 52 84 H30 V24 Z M42 34 V47 H52 C57 47 61 44 61 40 C61 36 57 34 52 34 H42 Z M42 57 V74 H54 C59 74 64 71 64 66 C64 61 59 57 54 57 H42 Z" fill="url(#cyberGrad)" filter="url(#neonGlow)" />
+  <!-- Neon Accent Dot -->
+  <circle cx="78" cy="26" r="4" fill="#00f0ff" filter="url(#neonGlow)" />
+</svg>
