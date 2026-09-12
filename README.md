@@ -4,6 +4,12 @@
 [![Twitch](https://img.shields.io/badge/Twitch-binchrii-9146ff?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/binchrii)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/e4YFVhpDB4)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](LICENSE)
+[![Status: Pre-Release](https://img.shields.io/badge/Status-Pre--Release%20%2F%20WIP-orange.svg?style=for-the-badge)](https://benzjeremy.github.io/binchrii/)
+
+> [!IMPORTANT]
+> ### 🚧 Pre-Release / Active Development Notice
+> **This web hub and software showcase is under active development.**  
+> Content modules, streaming schedules, and interactive features are continuously updated as pre-releases.
 
 The official, ultra-fast, and resource-friendly web hub for Twitch streamer **binchrii**. Built with clean semantic HTML5, modern CSS3 (Cyberpunk/Neon gaming aesthetics), and lightweight vanilla JavaScript — **100% framework-free, lightning-fast, and zero bloat**.
 
